@@ -1,6 +1,7 @@
 
     body {
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        
 
     }
     a {
@@ -12,10 +13,12 @@
         text-decoration: underline;
         color: bisque;
     }
-    img:first-of-type {
-        max-height: 50px;
+
+    #northSideChicago {
+        background-color: skyblue;
     }
 
-    img {
-        
+    .img-fluid {
+        width: auto;
+        max-height: 600px;
     }
